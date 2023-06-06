@@ -13,4 +13,3 @@ npm install
 3. Enter your MongoDb URI in mongoURI variable
 4. Run the Program by
 npm start
-
