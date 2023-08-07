@@ -4,8 +4,10 @@ This app allows user to add a image to their mongoDB database, View the images i
 # Features 
 ## 1. Upload a File
 #### Select a file from your PC to upload to the MongoDB database.
-![Upload](https://github.com/naziya-19/image-upload-delete-view-in-mongo/blob/main/screenshots/image1.png "Select a File")
-![Upload](https://github.com/naziya-19/image-upload-delete-view-in-mongo/blob/main/screenshots/image2.png "Select a File")
+<img src="https://github.com/naziya-19/image-upload-delete-view-in-mongo/blob/main/screenshots/image1.png" alt="Upload" width=75%>
+
+#### File Uploaded
+<img src="https://github.com/naziya-19/image-upload-delete-view-in-mongo/blob/main/screenshots/image2.png" alt="Upload" width=75%>
 
 ## 2. View the File
 #### You can view the File by clicking on the view button.
